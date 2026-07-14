@@ -8,8 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=govi-nd&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/govi-nd?label=Followers&style=for-the-badge&color=6E56CF" alt="followers" />
 
 </div>
 

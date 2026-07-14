@@ -8,6 +8,8 @@
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=govi-nd&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/govi-nd?label=Followers&style=for-the-badge&color=6E56CF" alt="followers" />
 
 </div>
 
@@ -36,13 +38,15 @@
 
 **Backend & Realtime**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio&theme=light" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="48" />
 
 <br/><br/>
 
 **Database, ORM & Tooling**
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma,git,vercel,turborepo&theme=light" />
+<img src="https://skillicons.dev/icons?i=postgres,prisma,git,vercel&theme=light" />
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" height="48" />
 
 </div>
 
@@ -50,20 +54,26 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
+#### 🩺 [Onkar Labs](https://github.com/govi-nd/Onkar_lab)
 
-<a href="https://github.com/govi-nd/Onkar_lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=govi-nd&repo=Onkar_lab&theme=default&hide_border=false" />
-</a>
-<a href="https://github.com/govi-nd/HostelDesk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=govi-nd&repo=HostelDesk&theme=default&hide_border=false" />
-</a>
+A full-stack diagnostic lab booking platform built with Next.js (App Router) + TypeScript, Prisma, Supabase (PostgreSQL), NextAuth, Razorpay payments, and an admin dashboard for managing bookings, tests, patients, and reports.
 
-</div>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
 
-**🩺 Onkar Labs** — A full-stack diagnostic lab booking platform built with Next.js (App Router) + TypeScript, Prisma, Supabase (PostgreSQL), NextAuth, Razorpay payments, and an admin dashboard for managing bookings, tests, patients, and reports.
+<br/><br/>
 
-**🏠 HostelDesk** — A hostel complaint management system with a React frontend and a Node.js/Express backend, featuring JWT-based authentication, MongoDB, and end-to-end test coverage with Selenium.
+#### 🏠 [HostelDesk](https://github.com/govi-nd/HostelDesk)
+
+A hostel complaint management system with a React frontend and a Node.js/Express backend, featuring JWT-based authentication, MongoDB, and end-to-end test coverage with Selenium.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
 
 <br/>
 

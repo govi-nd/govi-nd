@@ -23,7 +23,7 @@
 - 🌱 Currently exploring **Monorepos**, **Turborepo**, and scalable architecture patterns
 - ⚡ I enjoy building things with a tight feedback loop — code it, ship it, see it work
 - 🤝 Open to collaborating on full-stack projects and open-source contributions
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **gprashar2005@gmail.com**
 
 ---
 
@@ -76,18 +76,6 @@
 **Onkar Labs** — A full-stack diagnostic lab booking platform built with Next.js (App Router) + TypeScript, Prisma, Supabase (PostgreSQL), NextAuth, Razorpay payments, and an admin dashboard for managing bookings, tests, patients, and reports.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=govi-nd&show_icons=true&theme=default&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govi-nd&layout=compact&theme=default&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govi-nd&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
